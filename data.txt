@@ -1,0 +1,8 @@
+knjiga;Tin;Vni je toplo;metliščina;Tintin, You, Lokvica;
+knjiga;Tin;Vni je toplo;metliščina;Tintin, You, Lokvica;
+knjiga;Tin;Vni je toplo;metliščina;Tintin, You, Lokvica;
+publikacija;tin;publ;slo;publikacija, test;
+kartografsko;tin;publ;slo;publikacija, test;
+zvocno;tintin;music;yo;music;
+zvocno;tin;publ;slo;publikacija, test;
+zvocno;vene;glasba;ang;test, music;
